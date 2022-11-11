@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 
 💼 I'm a Software Engineer @ OfferUp 
+
 🛟 In my free time I'm a baby/toddler enthusiast (taking care of my daughter) and when she is sleeping besides being a regular husband, I'm working on my personal project [things](https://play.google.com/store/apps/details?id=com.juanisandroing.things) to play with Compose and get back to Android.
+
 💬 You can ask me about React, React Native, Android, Compose, Kotlin, Java, JavaScript, TypeScript, and I'll try to answer you or google whatever we are trying to solve.
 
